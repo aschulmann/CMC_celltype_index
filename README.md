@@ -1,1 +1,0 @@
-# CMC_celltype_index
